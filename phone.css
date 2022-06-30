@@ -1,0 +1,35 @@
+body {
+    
+}
+
+.container {
+    flex-direction: column;
+}
+
+.img-container {
+    background-image: url(./images/image-product-mobile.jpg);
+    background-size: cover;
+    width: 310px;
+    height: 200px;
+    border-radius: 10px 10px 0 0px;
+}
+
+
+.para-container {
+    width: 310px;
+    padding: 2rem;
+    
+}
+.para-container h1{
+    width: 250px;
+    font-size: 2.8rem;
+}
+
+.para-container p{
+    width: 235px;
+    font-size: 1.2rem;
+}
+
+.btn {
+    
+}
